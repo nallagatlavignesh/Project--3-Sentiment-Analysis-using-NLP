@@ -1,3 +1,4 @@
+# Project--3-Sentiment-Analysis-using-NLP
 Absolutely, sentiment analysis is a powerful tool in NLP that  unlocks the emotional undercurrents of textual data. Here's a breakdown of sentiment analysis using NLP
 
 Sentiment analysis, also known as opinion mining, is a technique in NLP that  automatically identifies the emotional tone behind a piece of text. It  determines whether the sentiment expressed is positive, negative, or neutral.
